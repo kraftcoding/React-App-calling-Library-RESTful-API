@@ -44,3 +44,48 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Additional info
+
+Install NVM (exe to download)
+
+Install Node.js (exe to download)
+
+https://nodejs.org/dist/
+
+https://nodejs.org/en/about/previous-releases
+
+nvm install node
+
+nvm install --lts
+
+nvm install <version> # like: 14.17.6
+nvm -v
+
+nvm off
+
+nvm on
+
+nvm install lts 64
+
+nvm use newest
+
+nvm list
+
+nvm use
+
+node --version
+
+npx create-react-app react-library-app
+
+npx create-react-app react-library-app --template typescript
+
+cd react-library-app
+
+npm start
+
+npm -g i eslint-cli (global installation)
+
+npm i eslint --save-dev (local installation)
+
+eslint --init
