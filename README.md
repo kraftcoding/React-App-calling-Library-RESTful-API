@@ -1,3 +1,7 @@
+# Description
+
+"Library example" management React App to calling Web API (see github project: "Library-DB-Net-Core-7-Web-API-EntityFramework") using Axios for the HTTP Requests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
