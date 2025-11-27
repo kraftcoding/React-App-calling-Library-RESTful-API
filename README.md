@@ -63,6 +63,8 @@ https://nodejs.org/en/about/previous-releases
 
 nvm install node
 
+nvm use 25.2.1
+
 nvm install --lts
 
 nvm install <version> # like: 14.17.6
