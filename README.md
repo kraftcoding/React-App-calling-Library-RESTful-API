@@ -53,6 +53,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Install NVM (exe to download)
 
+https://github.com/coreybutler/nvm-windows/releases
+
 Install Node.js (exe to download)
 
 https://nodejs.org/dist/
