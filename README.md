@@ -1,8 +1,8 @@
 # React App calling Library RESTful API
 
-"Library example" management React App to calling a RESTful Web API (see github project: "Library-DB-Net-Core-7-RESTful-Web-API-EntityFramework") using Axios for the HTTP Requests.
+Library management example built with React using Axios for the HTTP Requests consuming RESTful Web API implemented by the project "Library-DB-Net-Core-7-RESTful-Web-API-EntityFramework" (available on this GitHub).
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
